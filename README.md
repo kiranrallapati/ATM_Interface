@@ -1,8 +1,7 @@
 # 🏧 ATM Interface
 
-This project is a simple **ATM Interface System** built in Java.  
+This project is a simple **ATM Interface System** built in Python.  
 It simulates basic ATM functionalities such as **balance inquiry, deposit, withdrawal, and transaction history**.  
-It is designed for learning and understanding the concepts of **OOP, classes, methods, and user interaction** in Java.
 
 ---
 
